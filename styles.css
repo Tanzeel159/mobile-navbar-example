@@ -1,0 +1,22 @@
+*
+{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+ul li a 
+{
+    list-style-type: none;
+    color: orange;
+    text-decoration: none;
+    letter-spacing: 2px;
+    background: #222;
+    padding: 5px;
+    margin:10px 10px;
+    display: block;
+
+}
